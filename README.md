@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+</p>
+
 # 👋 Hi there! I'm Fajar Andhika
 
 ### 💻 Backend Developer | ⚙️ API Specialist | ☕ Coffee-Powered Coder
