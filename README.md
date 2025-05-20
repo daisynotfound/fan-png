@@ -5,7 +5,7 @@
 ---
 
 🌱 I’m currently learning:  
-`Node.js`, `Express.js`, `Prisma ORM`, `MySQL`, `Docker`, `Next.js`
+`Node.js`, `Express.js`, `Prisma ORM`, `MySQL`, `Next.js`, `Laravel`
 
 🚀 Tech Stack:  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -16,9 +16,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 📫 How to reach me:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Instagram](https://img.shields.io/badge/@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fandh._)
 
 ---
 
@@ -28,9 +26,10 @@
 
 ### ⚡ Fun Facts
 
-- 🕹 I love survival games.
-- 📜 I enjoy building clean and maintainable backend APIs.
-- 🤫 I'm more of a keyboard introvert, but my code speaks loudly.
+- 🧠 I'm passionate about learning and building in the backend world.
+- 🧍‍♂️ An introvert with a sharp and critical mindset.
+- 🎮 I enjoy playing RPG games and exploring fantasy worlds.
+
 
 ---
 
