@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fan-png.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://github.com/daisynotfound.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 
 # 👋 Hi there! I'm Fajar Andhika
@@ -37,5 +37,5 @@
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fan-png&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fan-png&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daisynotfound&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisynotfound&layout=compact&theme=radical)
