@@ -16,7 +16,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 📫 How to reach me:  
-[![Instagram](https://img.shields.io/badge/@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fandh._)
+[![Instagram](https://img.shields.io/badge/@fandh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fandh._)
 
 ---
 
